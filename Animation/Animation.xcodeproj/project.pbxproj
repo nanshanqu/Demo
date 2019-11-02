@@ -51,52 +51,6 @@
 		C79205EB221E4C5E00D54E22 /* like_normal_00002.png in Resources */ = {isa = PBXBuildFile; fileRef = C7920599221E4C5E00D54E22 /* like_normal_00002.png */; };
 		C79205EC221E4C5E00D54E22 /* like_normal_00003.png in Resources */ = {isa = PBXBuildFile; fileRef = C792059A221E4C5E00D54E22 /* like_normal_00003.png */; };
 		C79205ED221E4C5E00D54E22 /* like_normal_00001.png in Resources */ = {isa = PBXBuildFile; fileRef = C792059B221E4C5E00D54E22 /* like_normal_00001.png */; };
-		C79205EE221E4C5E00D54E22 /* 4c0a6929f1c0d374af71aa93dff29890.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C792059D221E4C5E00D54E22 /* 4c0a6929f1c0d374af71aa93dff29890.jpg */; };
-		C79205EF221E4C5E00D54E22 /* 6ee4862e5429e954609a7f8f5c6cb1dc.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C792059E221E4C5E00D54E22 /* 6ee4862e5429e954609a7f8f5c6cb1dc.jpg */; };
-		C79205F0221E4C5E00D54E22 /* edeb345bc482fb2c586e766565319a51.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C792059F221E4C5E00D54E22 /* edeb345bc482fb2c586e766565319a51.jpg */; };
-		C79205F1221E4C5E00D54E22 /* aaecd2739c30493b0c025c0d18299b60.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205A0221E4C5E00D54E22 /* aaecd2739c30493b0c025c0d18299b60.jpg */; };
-		C79205F2221E4C5E00D54E22 /* 7fd32bd9947793a022d9e01c1923d108.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205A1221E4C5E00D54E22 /* 7fd32bd9947793a022d9e01c1923d108.jpg */; };
-		C79205F3221E4C5E00D54E22 /* 9de65281e600b838f6634fda90417d72.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205A2221E4C5E00D54E22 /* 9de65281e600b838f6634fda90417d72.jpg */; };
-		C79205F4221E4C5E00D54E22 /* db348e20428c913b5c8acd4288f4f1de.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205A3221E4C5E00D54E22 /* db348e20428c913b5c8acd4288f4f1de.jpg */; };
-		C79205F5221E4C5E00D54E22 /* 048f4c7e38af8768231a879b21ef7c28.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205A4221E4C5E00D54E22 /* 048f4c7e38af8768231a879b21ef7c28.jpg */; };
-		C79205F6221E4C5E00D54E22 /* 5352fdeec6697820ae61945e9301aa85.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205A5221E4C5E00D54E22 /* 5352fdeec6697820ae61945e9301aa85.jpg */; };
-		C79205F7221E4C5E00D54E22 /* 827dee0e1819d4cb0cb44ab0bccbab73.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205A6221E4C5E00D54E22 /* 827dee0e1819d4cb0cb44ab0bccbab73.jpg */; };
-		C79205F8221E4C5E00D54E22 /* c13bccda4a66555cf625037fd5f6c93c.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205A7221E4C5E00D54E22 /* c13bccda4a66555cf625037fd5f6c93c.jpg */; };
-		C79205F9221E4C5E00D54E22 /* 65efdb5194a96c6f8f259a5e574e70eb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205A8221E4C5E00D54E22 /* 65efdb5194a96c6f8f259a5e574e70eb.jpg */; };
-		C79205FA221E4C5E00D54E22 /* b5c71eefa3117b5cc81b711940205413.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205A9221E4C5E00D54E22 /* b5c71eefa3117b5cc81b711940205413.jpg */; };
-		C79205FB221E4C5E00D54E22 /* bfab06d8ea1b35435f839cb6da2640ee.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205AA221E4C5E00D54E22 /* bfab06d8ea1b35435f839cb6da2640ee.jpg */; };
-		C79205FC221E4C5E00D54E22 /* 593121bc951ecc6e3980b2465e93a38b.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205AB221E4C5E00D54E22 /* 593121bc951ecc6e3980b2465e93a38b.jpg */; };
-		C79205FD221E4C5E00D54E22 /* 432d70e02279fcf596025808b81a2b5f.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205AC221E4C5E00D54E22 /* 432d70e02279fcf596025808b81a2b5f.jpg */; };
-		C79205FE221E4C5E00D54E22 /* 9ad5fd9cd3c9e0b33e56f4c921f1539a.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205AD221E4C5E00D54E22 /* 9ad5fd9cd3c9e0b33e56f4c921f1539a.jpg */; };
-		C79205FF221E4C5E00D54E22 /* a117da8a5118417f135d359a38b6e20e.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205AE221E4C5E00D54E22 /* a117da8a5118417f135d359a38b6e20e.jpg */; };
-		C7920600221E4C5E00D54E22 /* 6e35baec1779a6c48b9636c2c53ba180.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205AF221E4C5E00D54E22 /* 6e35baec1779a6c48b9636c2c53ba180.jpg */; };
-		C7920601221E4C5E00D54E22 /* 1b93852db4692d6b80fb9b9801a8ce98.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205B0221E4C5E00D54E22 /* 1b93852db4692d6b80fb9b9801a8ce98.jpg */; };
-		C7920602221E4C5E00D54E22 /* 2e113b09d5ca13e6801e7c634f544a68.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205B1221E4C5E00D54E22 /* 2e113b09d5ca13e6801e7c634f544a68.jpg */; };
-		C7920603221E4C5E00D54E22 /* 3eb9ba3b7c94903e869dd0efcf82aae8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205B2221E4C5E00D54E22 /* 3eb9ba3b7c94903e869dd0efcf82aae8.jpg */; };
-		C7920604221E4C5E00D54E22 /* c7dde2a4bbadeefed22a1d5bb74263fc.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205B3221E4C5E00D54E22 /* c7dde2a4bbadeefed22a1d5bb74263fc.jpg */; };
-		C7920605221E4C5E00D54E22 /* d95d0324a2c1877c46b58ee70cd6af6c.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205B4221E4C5E00D54E22 /* d95d0324a2c1877c46b58ee70cd6af6c.jpg */; };
-		C7920606221E4C5E00D54E22 /* 63fdcf03e5b459e496e02328cf3960f3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205B5221E4C5E00D54E22 /* 63fdcf03e5b459e496e02328cf3960f3.jpg */; };
-		C7920607221E4C5E00D54E22 /* fa2fabba01d43953452e7f6d849e2551.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205B6221E4C5E00D54E22 /* fa2fabba01d43953452e7f6d849e2551.jpg */; };
-		C7920608221E4C5E00D54E22 /* 9511db897ee34eba526b0cf0cb97a6c6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205B7221E4C5E00D54E22 /* 9511db897ee34eba526b0cf0cb97a6c6.jpg */; };
-		C7920609221E4C5E00D54E22 /* a450d00dcc8156f696573f2ab73a9acb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205B8221E4C5E00D54E22 /* a450d00dcc8156f696573f2ab73a9acb.jpg */; };
-		C792060A221E4C5E00D54E22 /* fb678dee7b1210a1896b81c67e3102f5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205B9221E4C5E00D54E22 /* fb678dee7b1210a1896b81c67e3102f5.jpg */; };
-		C792060B221E4C5E00D54E22 /* fb8e8f6c87602225581368c86323d2a4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205BA221E4C5E00D54E22 /* fb8e8f6c87602225581368c86323d2a4.jpg */; };
-		C792060C221E4C5E00D54E22 /* a4eec999205409eb0fc6c5759e56bf8b.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205BB221E4C5E00D54E22 /* a4eec999205409eb0fc6c5759e56bf8b.jpg */; };
-		C792060D221E4C5E00D54E22 /* 5d9e7180ff280da2e15b2320cb57ad4c.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205BC221E4C5E00D54E22 /* 5d9e7180ff280da2e15b2320cb57ad4c.jpg */; };
-		C792060E221E4C5E00D54E22 /* 99e0dc4684c28c6f7d0ce7661c13fc09.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205BD221E4C5E00D54E22 /* 99e0dc4684c28c6f7d0ce7661c13fc09.jpg */; };
-		C792060F221E4C5E00D54E22 /* 13dda25c3a0d2b76c686b30888f38c2f.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205BE221E4C5E00D54E22 /* 13dda25c3a0d2b76c686b30888f38c2f.jpg */; };
-		C7920610221E4C5E00D54E22 /* dcd1a9bff44c3358cd1b2bb901243c9f.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205BF221E4C5E00D54E22 /* dcd1a9bff44c3358cd1b2bb901243c9f.jpg */; };
-		C7920611221E4C5E00D54E22 /* 0b6c30acddedb8ea840cb8e5eb3e570e.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205C0221E4C5E00D54E22 /* 0b6c30acddedb8ea840cb8e5eb3e570e.jpg */; };
-		C7920612221E4C5E00D54E22 /* f151b759f344d5c4e9f4087906b8e9e0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205C1221E4C5E00D54E22 /* f151b759f344d5c4e9f4087906b8e9e0.jpg */; };
-		C7920613221E4C5E00D54E22 /* d3051ec09af9604669de86aae4c49034.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205C2221E4C5E00D54E22 /* d3051ec09af9604669de86aae4c49034.jpg */; };
-		C7920614221E4C5E00D54E22 /* 1d33deae3ed8937d5d04102d0662437a.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205C3221E4C5E00D54E22 /* 1d33deae3ed8937d5d04102d0662437a.jpg */; };
-		C7920615221E4C5E00D54E22 /* 3ab1ac4f3853542de996aeebd1de71c2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205C4221E4C5E00D54E22 /* 3ab1ac4f3853542de996aeebd1de71c2.jpg */; };
-		C7920616221E4C5E00D54E22 /* e9705f0a2d6bf34e9f4af14425a7f607.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205C5221E4C5E00D54E22 /* e9705f0a2d6bf34e9f4af14425a7f607.jpg */; };
-		C7920617221E4C5E00D54E22 /* a232b6430f8ac25c42039a49bf8057c6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205C6221E4C5E00D54E22 /* a232b6430f8ac25c42039a49bf8057c6.jpg */; };
-		C7920618221E4C5E00D54E22 /* 2d7a20a344c6fe5ed3b5d00b682df69f.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205C7221E4C5E00D54E22 /* 2d7a20a344c6fe5ed3b5d00b682df69f.jpg */; };
-		C7920619221E4C5E00D54E22 /* f77acd317e1c06da0ec45c882abfc492.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205C8221E4C5E00D54E22 /* f77acd317e1c06da0ec45c882abfc492.jpg */; };
-		C792061A221E4C5E00D54E22 /* 7854c634d3f5de7084287d04482a316f.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C79205C9221E4C5E00D54E22 /* 7854c634d3f5de7084287d04482a316f.jpg */; };
-		C792061B221E4C5E00D54E22 /* 0300acb0b34e8057b030a31474eb1f14-1.png in Resources */ = {isa = PBXBuildFile; fileRef = C79205CA221E4C5E00D54E22 /* 0300acb0b34e8057b030a31474eb1f14-1.png */; };
 		C792061C221E4C5E00D54E22 /* like_normal_audio.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C79205CC221E4C5E00D54E22 /* like_normal_audio.mp3 */; };
 		C792061D221E4C5E00D54E22 /* thumb.json in Resources */ = {isa = PBXBuildFile; fileRef = C79205CD221E4C5E00D54E22 /* thumb.json */; };
 		C792061E221E4C5E00D54E22 /* trophy.json in Resources */ = {isa = PBXBuildFile; fileRef = C79205CE221E4C5E00D54E22 /* trophy.json */; };
@@ -629,52 +583,6 @@
 		C7920599221E4C5E00D54E22 /* like_normal_00002.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = like_normal_00002.png; sourceTree = "<group>"; };
 		C792059A221E4C5E00D54E22 /* like_normal_00003.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = like_normal_00003.png; sourceTree = "<group>"; };
 		C792059B221E4C5E00D54E22 /* like_normal_00001.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = like_normal_00001.png; sourceTree = "<group>"; };
-		C792059D221E4C5E00D54E22 /* 4c0a6929f1c0d374af71aa93dff29890.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4c0a6929f1c0d374af71aa93dff29890.jpg; sourceTree = "<group>"; };
-		C792059E221E4C5E00D54E22 /* 6ee4862e5429e954609a7f8f5c6cb1dc.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6ee4862e5429e954609a7f8f5c6cb1dc.jpg; sourceTree = "<group>"; };
-		C792059F221E4C5E00D54E22 /* edeb345bc482fb2c586e766565319a51.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = edeb345bc482fb2c586e766565319a51.jpg; sourceTree = "<group>"; };
-		C79205A0221E4C5E00D54E22 /* aaecd2739c30493b0c025c0d18299b60.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aaecd2739c30493b0c025c0d18299b60.jpg; sourceTree = "<group>"; };
-		C79205A1221E4C5E00D54E22 /* 7fd32bd9947793a022d9e01c1923d108.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7fd32bd9947793a022d9e01c1923d108.jpg; sourceTree = "<group>"; };
-		C79205A2221E4C5E00D54E22 /* 9de65281e600b838f6634fda90417d72.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9de65281e600b838f6634fda90417d72.jpg; sourceTree = "<group>"; };
-		C79205A3221E4C5E00D54E22 /* db348e20428c913b5c8acd4288f4f1de.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = db348e20428c913b5c8acd4288f4f1de.jpg; sourceTree = "<group>"; };
-		C79205A4221E4C5E00D54E22 /* 048f4c7e38af8768231a879b21ef7c28.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 048f4c7e38af8768231a879b21ef7c28.jpg; sourceTree = "<group>"; };
-		C79205A5221E4C5E00D54E22 /* 5352fdeec6697820ae61945e9301aa85.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5352fdeec6697820ae61945e9301aa85.jpg; sourceTree = "<group>"; };
-		C79205A6221E4C5E00D54E22 /* 827dee0e1819d4cb0cb44ab0bccbab73.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 827dee0e1819d4cb0cb44ab0bccbab73.jpg; sourceTree = "<group>"; };
-		C79205A7221E4C5E00D54E22 /* c13bccda4a66555cf625037fd5f6c93c.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = c13bccda4a66555cf625037fd5f6c93c.jpg; sourceTree = "<group>"; };
-		C79205A8221E4C5E00D54E22 /* 65efdb5194a96c6f8f259a5e574e70eb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 65efdb5194a96c6f8f259a5e574e70eb.jpg; sourceTree = "<group>"; };
-		C79205A9221E4C5E00D54E22 /* b5c71eefa3117b5cc81b711940205413.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = b5c71eefa3117b5cc81b711940205413.jpg; sourceTree = "<group>"; };
-		C79205AA221E4C5E00D54E22 /* bfab06d8ea1b35435f839cb6da2640ee.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bfab06d8ea1b35435f839cb6da2640ee.jpg; sourceTree = "<group>"; };
-		C79205AB221E4C5E00D54E22 /* 593121bc951ecc6e3980b2465e93a38b.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 593121bc951ecc6e3980b2465e93a38b.jpg; sourceTree = "<group>"; };
-		C79205AC221E4C5E00D54E22 /* 432d70e02279fcf596025808b81a2b5f.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 432d70e02279fcf596025808b81a2b5f.jpg; sourceTree = "<group>"; };
-		C79205AD221E4C5E00D54E22 /* 9ad5fd9cd3c9e0b33e56f4c921f1539a.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9ad5fd9cd3c9e0b33e56f4c921f1539a.jpg; sourceTree = "<group>"; };
-		C79205AE221E4C5E00D54E22 /* a117da8a5118417f135d359a38b6e20e.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = a117da8a5118417f135d359a38b6e20e.jpg; sourceTree = "<group>"; };
-		C79205AF221E4C5E00D54E22 /* 6e35baec1779a6c48b9636c2c53ba180.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6e35baec1779a6c48b9636c2c53ba180.jpg; sourceTree = "<group>"; };
-		C79205B0221E4C5E00D54E22 /* 1b93852db4692d6b80fb9b9801a8ce98.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1b93852db4692d6b80fb9b9801a8ce98.jpg; sourceTree = "<group>"; };
-		C79205B1221E4C5E00D54E22 /* 2e113b09d5ca13e6801e7c634f544a68.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2e113b09d5ca13e6801e7c634f544a68.jpg; sourceTree = "<group>"; };
-		C79205B2221E4C5E00D54E22 /* 3eb9ba3b7c94903e869dd0efcf82aae8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3eb9ba3b7c94903e869dd0efcf82aae8.jpg; sourceTree = "<group>"; };
-		C79205B3221E4C5E00D54E22 /* c7dde2a4bbadeefed22a1d5bb74263fc.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = c7dde2a4bbadeefed22a1d5bb74263fc.jpg; sourceTree = "<group>"; };
-		C79205B4221E4C5E00D54E22 /* d95d0324a2c1877c46b58ee70cd6af6c.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = d95d0324a2c1877c46b58ee70cd6af6c.jpg; sourceTree = "<group>"; };
-		C79205B5221E4C5E00D54E22 /* 63fdcf03e5b459e496e02328cf3960f3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 63fdcf03e5b459e496e02328cf3960f3.jpg; sourceTree = "<group>"; };
-		C79205B6221E4C5E00D54E22 /* fa2fabba01d43953452e7f6d849e2551.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fa2fabba01d43953452e7f6d849e2551.jpg; sourceTree = "<group>"; };
-		C79205B7221E4C5E00D54E22 /* 9511db897ee34eba526b0cf0cb97a6c6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9511db897ee34eba526b0cf0cb97a6c6.jpg; sourceTree = "<group>"; };
-		C79205B8221E4C5E00D54E22 /* a450d00dcc8156f696573f2ab73a9acb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = a450d00dcc8156f696573f2ab73a9acb.jpg; sourceTree = "<group>"; };
-		C79205B9221E4C5E00D54E22 /* fb678dee7b1210a1896b81c67e3102f5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fb678dee7b1210a1896b81c67e3102f5.jpg; sourceTree = "<group>"; };
-		C79205BA221E4C5E00D54E22 /* fb8e8f6c87602225581368c86323d2a4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fb8e8f6c87602225581368c86323d2a4.jpg; sourceTree = "<group>"; };
-		C79205BB221E4C5E00D54E22 /* a4eec999205409eb0fc6c5759e56bf8b.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = a4eec999205409eb0fc6c5759e56bf8b.jpg; sourceTree = "<group>"; };
-		C79205BC221E4C5E00D54E22 /* 5d9e7180ff280da2e15b2320cb57ad4c.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5d9e7180ff280da2e15b2320cb57ad4c.jpg; sourceTree = "<group>"; };
-		C79205BD221E4C5E00D54E22 /* 99e0dc4684c28c6f7d0ce7661c13fc09.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 99e0dc4684c28c6f7d0ce7661c13fc09.jpg; sourceTree = "<group>"; };
-		C79205BE221E4C5E00D54E22 /* 13dda25c3a0d2b76c686b30888f38c2f.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 13dda25c3a0d2b76c686b30888f38c2f.jpg; sourceTree = "<group>"; };
-		C79205BF221E4C5E00D54E22 /* dcd1a9bff44c3358cd1b2bb901243c9f.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dcd1a9bff44c3358cd1b2bb901243c9f.jpg; sourceTree = "<group>"; };
-		C79205C0221E4C5E00D54E22 /* 0b6c30acddedb8ea840cb8e5eb3e570e.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 0b6c30acddedb8ea840cb8e5eb3e570e.jpg; sourceTree = "<group>"; };
-		C79205C1221E4C5E00D54E22 /* f151b759f344d5c4e9f4087906b8e9e0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = f151b759f344d5c4e9f4087906b8e9e0.jpg; sourceTree = "<group>"; };
-		C79205C2221E4C5E00D54E22 /* d3051ec09af9604669de86aae4c49034.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = d3051ec09af9604669de86aae4c49034.jpg; sourceTree = "<group>"; };
-		C79205C3221E4C5E00D54E22 /* 1d33deae3ed8937d5d04102d0662437a.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1d33deae3ed8937d5d04102d0662437a.jpg; sourceTree = "<group>"; };
-		C79205C4221E4C5E00D54E22 /* 3ab1ac4f3853542de996aeebd1de71c2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3ab1ac4f3853542de996aeebd1de71c2.jpg; sourceTree = "<group>"; };
-		C79205C5221E4C5E00D54E22 /* e9705f0a2d6bf34e9f4af14425a7f607.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = e9705f0a2d6bf34e9f4af14425a7f607.jpg; sourceTree = "<group>"; };
-		C79205C6221E4C5E00D54E22 /* a232b6430f8ac25c42039a49bf8057c6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = a232b6430f8ac25c42039a49bf8057c6.jpg; sourceTree = "<group>"; };
-		C79205C7221E4C5E00D54E22 /* 2d7a20a344c6fe5ed3b5d00b682df69f.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2d7a20a344c6fe5ed3b5d00b682df69f.jpg; sourceTree = "<group>"; };
-		C79205C8221E4C5E00D54E22 /* f77acd317e1c06da0ec45c882abfc492.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = f77acd317e1c06da0ec45c882abfc492.jpg; sourceTree = "<group>"; };
-		C79205C9221E4C5E00D54E22 /* 7854c634d3f5de7084287d04482a316f.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7854c634d3f5de7084287d04482a316f.jpg; sourceTree = "<group>"; };
-		C79205CA221E4C5E00D54E22 /* 0300acb0b34e8057b030a31474eb1f14-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "0300acb0b34e8057b030a31474eb1f14-1.png"; sourceTree = "<group>"; };
 		C79205CC221E4C5E00D54E22 /* like_normal_audio.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = like_normal_audio.mp3; sourceTree = "<group>"; };
 		C79205CD221E4C5E00D54E22 /* thumb.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = thumb.json; sourceTree = "<group>"; };
 		C79205CE221E4C5E00D54E22 /* trophy.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = trophy.json; sourceTree = "<group>"; };
@@ -1217,7 +1125,6 @@
 				C79209A2221E55A100D54E22 /* Buttons */,
 				C7920620221E551000D54E22 /* Animations */,
 				C792057D221E4C5E00D54E22 /* like_image */,
-				C792059C221E4C5E00D54E22 /* panorama */,
 				C79205CB221E4C5E00D54E22 /* resources */,
 				C7920547221E410A00D54E22 /* LaunchScreen.storyboard */,
 				C792054A221E410A00D54E22 /* Info.plist */,
@@ -1279,59 +1186,6 @@
 				C792059B221E4C5E00D54E22 /* like_normal_00001.png */,
 			);
 			path = like_image;
-			sourceTree = "<group>";
-		};
-		C792059C221E4C5E00D54E22 /* panorama */ = {
-			isa = PBXGroup;
-			children = (
-				C792059D221E4C5E00D54E22 /* 4c0a6929f1c0d374af71aa93dff29890.jpg */,
-				C792059E221E4C5E00D54E22 /* 6ee4862e5429e954609a7f8f5c6cb1dc.jpg */,
-				C792059F221E4C5E00D54E22 /* edeb345bc482fb2c586e766565319a51.jpg */,
-				C79205A0221E4C5E00D54E22 /* aaecd2739c30493b0c025c0d18299b60.jpg */,
-				C79205A1221E4C5E00D54E22 /* 7fd32bd9947793a022d9e01c1923d108.jpg */,
-				C79205A2221E4C5E00D54E22 /* 9de65281e600b838f6634fda90417d72.jpg */,
-				C79205A3221E4C5E00D54E22 /* db348e20428c913b5c8acd4288f4f1de.jpg */,
-				C79205A4221E4C5E00D54E22 /* 048f4c7e38af8768231a879b21ef7c28.jpg */,
-				C79205A5221E4C5E00D54E22 /* 5352fdeec6697820ae61945e9301aa85.jpg */,
-				C79205A6221E4C5E00D54E22 /* 827dee0e1819d4cb0cb44ab0bccbab73.jpg */,
-				C79205A7221E4C5E00D54E22 /* c13bccda4a66555cf625037fd5f6c93c.jpg */,
-				C79205A8221E4C5E00D54E22 /* 65efdb5194a96c6f8f259a5e574e70eb.jpg */,
-				C79205A9221E4C5E00D54E22 /* b5c71eefa3117b5cc81b711940205413.jpg */,
-				C79205AA221E4C5E00D54E22 /* bfab06d8ea1b35435f839cb6da2640ee.jpg */,
-				C79205AB221E4C5E00D54E22 /* 593121bc951ecc6e3980b2465e93a38b.jpg */,
-				C79205AC221E4C5E00D54E22 /* 432d70e02279fcf596025808b81a2b5f.jpg */,
-				C79205AD221E4C5E00D54E22 /* 9ad5fd9cd3c9e0b33e56f4c921f1539a.jpg */,
-				C79205AE221E4C5E00D54E22 /* a117da8a5118417f135d359a38b6e20e.jpg */,
-				C79205AF221E4C5E00D54E22 /* 6e35baec1779a6c48b9636c2c53ba180.jpg */,
-				C79205B0221E4C5E00D54E22 /* 1b93852db4692d6b80fb9b9801a8ce98.jpg */,
-				C79205B1221E4C5E00D54E22 /* 2e113b09d5ca13e6801e7c634f544a68.jpg */,
-				C79205B2221E4C5E00D54E22 /* 3eb9ba3b7c94903e869dd0efcf82aae8.jpg */,
-				C79205B3221E4C5E00D54E22 /* c7dde2a4bbadeefed22a1d5bb74263fc.jpg */,
-				C79205B4221E4C5E00D54E22 /* d95d0324a2c1877c46b58ee70cd6af6c.jpg */,
-				C79205B5221E4C5E00D54E22 /* 63fdcf03e5b459e496e02328cf3960f3.jpg */,
-				C79205B6221E4C5E00D54E22 /* fa2fabba01d43953452e7f6d849e2551.jpg */,
-				C79205B7221E4C5E00D54E22 /* 9511db897ee34eba526b0cf0cb97a6c6.jpg */,
-				C79205B8221E4C5E00D54E22 /* a450d00dcc8156f696573f2ab73a9acb.jpg */,
-				C79205B9221E4C5E00D54E22 /* fb678dee7b1210a1896b81c67e3102f5.jpg */,
-				C79205BA221E4C5E00D54E22 /* fb8e8f6c87602225581368c86323d2a4.jpg */,
-				C79205BB221E4C5E00D54E22 /* a4eec999205409eb0fc6c5759e56bf8b.jpg */,
-				C79205BC221E4C5E00D54E22 /* 5d9e7180ff280da2e15b2320cb57ad4c.jpg */,
-				C79205BD221E4C5E00D54E22 /* 99e0dc4684c28c6f7d0ce7661c13fc09.jpg */,
-				C79205BE221E4C5E00D54E22 /* 13dda25c3a0d2b76c686b30888f38c2f.jpg */,
-				C79205BF221E4C5E00D54E22 /* dcd1a9bff44c3358cd1b2bb901243c9f.jpg */,
-				C79205C0221E4C5E00D54E22 /* 0b6c30acddedb8ea840cb8e5eb3e570e.jpg */,
-				C79205C1221E4C5E00D54E22 /* f151b759f344d5c4e9f4087906b8e9e0.jpg */,
-				C79205C2221E4C5E00D54E22 /* d3051ec09af9604669de86aae4c49034.jpg */,
-				C79205C3221E4C5E00D54E22 /* 1d33deae3ed8937d5d04102d0662437a.jpg */,
-				C79205C4221E4C5E00D54E22 /* 3ab1ac4f3853542de996aeebd1de71c2.jpg */,
-				C79205C5221E4C5E00D54E22 /* e9705f0a2d6bf34e9f4af14425a7f607.jpg */,
-				C79205C6221E4C5E00D54E22 /* a232b6430f8ac25c42039a49bf8057c6.jpg */,
-				C79205C7221E4C5E00D54E22 /* 2d7a20a344c6fe5ed3b5d00b682df69f.jpg */,
-				C79205C8221E4C5E00D54E22 /* f77acd317e1c06da0ec45c882abfc492.jpg */,
-				C79205C9221E4C5E00D54E22 /* 7854c634d3f5de7084287d04482a316f.jpg */,
-				C79205CA221E4C5E00D54E22 /* 0300acb0b34e8057b030a31474eb1f14-1.png */,
-			);
-			path = panorama;
 			sourceTree = "<group>";
 		};
 		C79205CB221E4C5E00D54E22 /* resources */ = {
@@ -2000,7 +1854,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C79205F5221E4C5E00D54E22 /* 048f4c7e38af8768231a879b21ef7c28.jpg in Resources */,
 				C7920996221E551100D54E22 /* drink_05.jpg in Resources */,
 				C792085B221E551100D54E22 /* stomach_06.jpg in Resources */,
 				C79208A0221E551100D54E22 /* footLeft_04.jpg in Resources */,
@@ -2009,7 +1862,6 @@
 				C79207EE221E551100D54E22 /* footRight_22.jpg in Resources */,
 				C7920835221E551100D54E22 /* knockout_51.jpg in Resources */,
 				C7920967221E551100D54E22 /* drink_45.jpg in Resources */,
-				C79205EE221E4C5E00D54E22 /* 4c0a6929f1c0d374af71aa93dff29890.jpg in Resources */,
 				C792081D221E551100D54E22 /* knockout_59.jpg in Resources */,
 				C7920911221E551100D54E22 /* fart_20.jpg in Resources */,
 				C7920903221E551100D54E22 /* scratch_22.jpg in Resources */,
@@ -2018,7 +1870,6 @@
 				C792096F221E551100D54E22 /* drink_80.jpg in Resources */,
 				C7920972221E551100D54E22 /* drink_56.jpg in Resources */,
 				C7920974221E551100D54E22 /* drink_54.jpg in Resources */,
-				C792060A221E4C5E00D54E22 /* fb678dee7b1210a1896b81c67e3102f5.jpg in Resources */,
 				C79205E8221E4C5E00D54E22 /* like_normal_00005.png in Resources */,
 				C79208E9221E551100D54E22 /* scratch_39.jpg in Resources */,
 				C7920955221E551100D54E22 /* drink_19.jpg in Resources */,
@@ -2033,7 +1884,6 @@
 				C7920824221E551100D54E22 /* knockout_60.jpg in Resources */,
 				C792097C221E551100D54E22 /* drink_64.jpg in Resources */,
 				C792093A221E551100D54E22 /* angry_10.jpg in Resources */,
-				C79205FE221E4C5E00D54E22 /* 9ad5fd9cd3c9e0b33e56f4c921f1539a.jpg in Resources */,
 				C7920991221E551100D54E22 /* drink_12.jpg in Resources */,
 				C7920987221E551100D54E22 /* drink_63.jpg in Resources */,
 				C79205D0221E4C5E00D54E22 /* like_normal_00008.png in Resources */,
@@ -2053,7 +1903,6 @@
 				C79208BA221E551100D54E22 /* eat_29.jpg in Resources */,
 				C792080D221E551100D54E22 /* knockout_07.jpg in Resources */,
 				C79208C2221E551100D54E22 /* eat_32.jpg in Resources */,
-				C7920613221E4C5E00D54E22 /* d3051ec09af9604669de86aae4c49034.jpg in Resources */,
 				C792099A221E551100D54E22 /* drink_29.jpg in Resources */,
 				C79209AB221E55A200D54E22 /* eat.png in Resources */,
 				C79208D6221E551100D54E22 /* scratch_15.jpg in Resources */,
@@ -2063,7 +1912,6 @@
 				C792099C221E551100D54E22 /* drink_14.jpg in Resources */,
 				C7920917221E551100D54E22 /* fart_24.jpg in Resources */,
 				C79205EC221E4C5E00D54E22 /* like_normal_00003.png in Resources */,
-				C7920602221E4C5E00D54E22 /* 2e113b09d5ca13e6801e7c634f544a68.jpg in Resources */,
 				C79207F8221E551100D54E22 /* footRight_07.jpg in Resources */,
 				C792090C221E551100D54E22 /* scratch_30.jpg in Resources */,
 				C792080F221E551100D54E22 /* knockout_17.jpg in Resources */,
@@ -2076,9 +1924,7 @@
 				C79208B6221E551100D54E22 /* eat_05.jpg in Resources */,
 				C7920848221E551100D54E22 /* knockout_33.jpg in Resources */,
 				C79207EA221E551100D54E22 /* footRight_24.jpg in Resources */,
-				C792061A221E4C5E00D54E22 /* 7854c634d3f5de7084287d04482a316f.jpg in Resources */,
 				C79208AE221E551100D54E22 /* eat_13.jpg in Resources */,
-				C79205F1221E4C5E00D54E22 /* aaecd2739c30493b0c025c0d18299b60.jpg in Resources */,
 				C792092E221E551100D54E22 /* angry_09.jpg in Resources */,
 				C79207E8221E551100D54E22 /* footRight_19.jpg in Resources */,
 				C792085E221E551100D54E22 /* stomach_17.jpg in Resources */,
@@ -2090,7 +1936,6 @@
 				C792098E221E551100D54E22 /* drink_13.jpg in Resources */,
 				C792061D221E4C5E00D54E22 /* thumb.json in Resources */,
 				C792080A221E551100D54E22 /* knockout_38.jpg in Resources */,
-				C7920600221E4C5E00D54E22 /* 6e35baec1779a6c48b9636c2c53ba180.jpg in Resources */,
 				C79205DD221E4C5E00D54E22 /* like_normal_000013.png in Resources */,
 				C792092F221E551100D54E22 /* angry_21.jpg in Resources */,
 				C7920993221E551100D54E22 /* drink_04.jpg in Resources */,
@@ -2132,20 +1977,17 @@
 				C79207FE221E551100D54E22 /* footRight_17.jpg in Resources */,
 				C7920853221E551100D54E22 /* knockout_08.jpg in Resources */,
 				C7920858221E551100D54E22 /* stomach_10.jpg in Resources */,
-				C7920610221E4C5E00D54E22 /* dcd1a9bff44c3358cd1b2bb901243c9f.jpg in Resources */,
 				C7920888221E551100D54E22 /* pie_10.jpg in Resources */,
 				C792098F221E551100D54E22 /* drink_07.jpg in Resources */,
 				C7920884221E551100D54E22 /* pie_15.jpg in Resources */,
 				C7920925221E551100D54E22 /* fart_13.jpg in Resources */,
 				C7920842221E551100D54E22 /* knockout_18.jpg in Resources */,
 				C7920979221E551100D54E22 /* drink_55.jpg in Resources */,
-				C79205F7221E4C5E00D54E22 /* 827dee0e1819d4cb0cb44ab0bccbab73.jpg in Resources */,
 				C7920977221E551100D54E22 /* drink_69.jpg in Resources */,
 				C79208B4221E551100D54E22 /* eat_10.jpg in Resources */,
 				C7920880221E551100D54E22 /* pie_02.jpg in Resources */,
 				C792081C221E551100D54E22 /* knockout_67.jpg in Resources */,
 				C7920958221E551100D54E22 /* drink_30.jpg in Resources */,
-				C7920611221E4C5E00D54E22 /* 0b6c30acddedb8ea840cb8e5eb3e570e.jpg in Resources */,
 				C7920912221E551100D54E22 /* fart_22.jpg in Resources */,
 				C7920813221E551100D54E22 /* knockout_00.jpg in Resources */,
 				C79207F5221E551100D54E22 /* footRight_11.jpg in Resources */,
@@ -2167,7 +2009,6 @@
 				C7920861221E551100D54E22 /* stomach_16.jpg in Resources */,
 				C7920937221E551100D54E22 /* angry_13.jpg in Resources */,
 				C7920982221E551100D54E22 /* drink_72.jpg in Resources */,
-				C792060B221E4C5E00D54E22 /* fb8e8f6c87602225581368c86323d2a4.jpg in Resources */,
 				C7920976221E551100D54E22 /* drink_68.jpg in Resources */,
 				C7920822221E551100D54E22 /* knockout_58.jpg in Resources */,
 				C79208FD221E551100D54E22 /* scratch_09.jpg in Resources */,
@@ -2181,7 +2022,6 @@
 				C79208CE221E551100D54E22 /* eat_08.jpg in Resources */,
 				C7920873221E551100D54E22 /* stomach_23.jpg in Resources */,
 				C79205E9221E4C5E00D54E22 /* like_normal_00007.png in Resources */,
-				C792061B221E4C5E00D54E22 /* 0300acb0b34e8057b030a31474eb1f14-1.png in Resources */,
 				C7920851221E551100D54E22 /* knockout_35.jpg in Resources */,
 				C79208BD221E551100D54E22 /* eat_00.jpg in Resources */,
 				C7920906221E551100D54E22 /* scratch_33.jpg in Resources */,
@@ -2211,7 +2051,6 @@
 				C792085A221E551100D54E22 /* stomach_12.jpg in Resources */,
 				C7920846221E551100D54E22 /* knockout_25.jpg in Resources */,
 				C7920949221E551100D54E22 /* cymbal_01.jpg in Resources */,
-				C79205F2221E4C5E00D54E22 /* 7fd32bd9947793a022d9e01c1923d108.jpg in Resources */,
 				C792087A221E551100D54E22 /* pie_08.jpg in Resources */,
 				C79208BC221E551100D54E22 /* eat_14.jpg in Resources */,
 				C792093E221E551100D54E22 /* angry_15.jpg in Resources */,
@@ -2231,7 +2070,6 @@
 				C7920867221E551100D54E22 /* stomach_01.jpg in Resources */,
 				C79208CB221E551100D54E22 /* eat_18.jpg in Resources */,
 				C792091D221E551100D54E22 /* fart_01.jpg in Resources */,
-				C7920609221E4C5E00D54E22 /* a450d00dcc8156f696573f2ab73a9acb.jpg in Resources */,
 				C7920818221E551100D54E22 /* knockout_01.jpg in Resources */,
 				C79208B0221E551100D54E22 /* eat_06.jpg in Resources */,
 				C79205E0221E4C5E00D54E22 /* like_normal_000011.png in Resources */,
@@ -2258,13 +2096,11 @@
 				C7920990221E551100D54E22 /* drink_06.jpg in Resources */,
 				C792099D221E551100D54E22 /* drink_00.jpg in Resources */,
 				C79205D7221E4C5E00D54E22 /* like_normal_000024.png in Resources */,
-				C7920614221E4C5E00D54E22 /* 1d33deae3ed8937d5d04102d0662437a.jpg in Resources */,
 				C7920893221E551100D54E22 /* footLeft_01.jpg in Resources */,
 				C79207E7221E551100D54E22 /* footRight_25.jpg in Resources */,
 				C79208DD221E551100D54E22 /* scratch_16.jpg in Resources */,
 				C79207EF221E551100D54E22 /* footRight_08.jpg in Resources */,
 				C79208EB221E551100D54E22 /* scratch_48.jpg in Resources */,
-				C792060D221E4C5E00D54E22 /* 5d9e7180ff280da2e15b2320cb57ad4c.jpg in Resources */,
 				C79208F7221E551100D54E22 /* scratch_46.jpg in Resources */,
 				C7920836221E551100D54E22 /* knockout_79.jpg in Resources */,
 				C7920833221E551100D54E22 /* knockout_44.jpg in Resources */,
@@ -2272,8 +2108,6 @@
 				C792091C221E551100D54E22 /* fart_15.jpg in Resources */,
 				C79207F9221E551100D54E22 /* footRight_06.jpg in Resources */,
 				C79207E9221E551100D54E22 /* footRight_18.jpg in Resources */,
-				C7920619221E4C5E00D54E22 /* f77acd317e1c06da0ec45c882abfc492.jpg in Resources */,
-				C7920618221E4C5E00D54E22 /* 2d7a20a344c6fe5ed3b5d00b682df69f.jpg in Resources */,
 				C7920938221E551100D54E22 /* angry_05.jpg in Resources */,
 				C7920969221E551100D54E22 /* drink_50.jpg in Resources */,
 				C7920819221E551100D54E22 /* knockout_66.jpg in Resources */,
@@ -2286,8 +2120,6 @@
 				C79208E2221E551100D54E22 /* scratch_12.jpg in Resources */,
 				C792099B221E551100D54E22 /* drink_28.jpg in Resources */,
 				C7920821221E551100D54E22 /* knockout_70.jpg in Resources */,
-				C79205F9221E4C5E00D54E22 /* 65efdb5194a96c6f8f259a5e574e70eb.jpg in Resources */,
-				C7920603221E4C5E00D54E22 /* 3eb9ba3b7c94903e869dd0efcf82aae8.jpg in Resources */,
 				C7920838221E551100D54E22 /* knockout_41.jpg in Resources */,
 				C792096E221E551100D54E22 /* drink_47.jpg in Resources */,
 				C792085F221E551100D54E22 /* stomach_03.jpg in Resources */,
@@ -2319,7 +2151,6 @@
 				C7920951221E551100D54E22 /* drink_32.jpg in Resources */,
 				C79208E0221E551100D54E22 /* scratch_07.jpg in Resources */,
 				C792086E221E551100D54E22 /* stomach_33.jpg in Resources */,
-				C792060F221E4C5E00D54E22 /* 13dda25c3a0d2b76c686b30888f38c2f.jpg in Resources */,
 				C7920865221E551100D54E22 /* stomach_29.jpg in Resources */,
 				C7920920221E551100D54E22 /* fart_02.jpg in Resources */,
 				C792083F221E551100D54E22 /* knockout_80.jpg in Resources */,
@@ -2335,7 +2166,6 @@
 				C79207EC221E551100D54E22 /* footRight_27.jpg in Resources */,
 				C7920914221E551100D54E22 /* fart_27.jpg in Resources */,
 				C7920933221E551100D54E22 /* angry_23.jpg in Resources */,
-				C79205F0221E4C5E00D54E22 /* edeb345bc482fb2c586e766565319a51.jpg in Resources */,
 				C7920929221E551100D54E22 /* fart_04.jpg in Resources */,
 				C7920871221E551100D54E22 /* stomach_32.jpg in Resources */,
 				C792095E221E551100D54E22 /* drink_09.jpg in Resources */,
@@ -2346,7 +2176,6 @@
 				C7920970221E551100D54E22 /* drink_43.jpg in Resources */,
 				C792098A221E551100D54E22 /* drink_49.jpg in Resources */,
 				C7920546221E410A00D54E22 /* Assets.xcassets in Resources */,
-				C79205F8221E4C5E00D54E22 /* c13bccda4a66555cf625037fd5f6c93c.jpg in Resources */,
 				C79207FB221E551100D54E22 /* footRight_16.jpg in Resources */,
 				C7920965221E551100D54E22 /* drink_79.jpg in Resources */,
 				C792093B221E551100D54E22 /* angry_04.jpg in Resources */,
@@ -2356,8 +2185,6 @@
 				C792080E221E551100D54E22 /* knockout_13.jpg in Resources */,
 				C79208B9221E551100D54E22 /* eat_15.jpg in Resources */,
 				C792090B221E551100D54E22 /* scratch_24.jpg in Resources */,
-				C79205EF221E4C5E00D54E22 /* 6ee4862e5429e954609a7f8f5c6cb1dc.jpg in Resources */,
-				C7920601221E4C5E00D54E22 /* 1b93852db4692d6b80fb9b9801a8ce98.jpg in Resources */,
 				C7920896221E551100D54E22 /* footLeft_03.jpg in Resources */,
 				C792097F221E551100D54E22 /* drink_59.jpg in Resources */,
 				C79208E4221E551100D54E22 /* scratch_38.jpg in Resources */,
@@ -2367,9 +2194,6 @@
 				C79205DC221E4C5E00D54E22 /* like_normal_000022.png in Resources */,
 				C7920988221E551100D54E22 /* drink_75.jpg in Resources */,
 				C7920877221E551100D54E22 /* stomach_20.jpg in Resources */,
-				C792060E221E4C5E00D54E22 /* 99e0dc4684c28c6f7d0ce7661c13fc09.jpg in Resources */,
-				C7920604221E4C5E00D54E22 /* c7dde2a4bbadeefed22a1d5bb74263fc.jpg in Resources */,
-				C792060C221E4C5E00D54E22 /* a4eec999205409eb0fc6c5759e56bf8b.jpg in Resources */,
 				C79208B8221E551100D54E22 /* eat_01.jpg in Resources */,
 				C79207F1221E551100D54E22 /* footRight_21.jpg in Resources */,
 				C7920814221E551100D54E22 /* knockout_14.jpg in Resources */,
@@ -2379,7 +2203,6 @@
 				C79205E5221E4C5E00D54E22 /* like_normal_000016.png in Resources */,
 				C792086F221E551100D54E22 /* stomach_27.jpg in Resources */,
 				C792087F221E551100D54E22 /* pie_18.jpg in Resources */,
-				C79205FD221E4C5E00D54E22 /* 432d70e02279fcf596025808b81a2b5f.jpg in Resources */,
 				C79208FB221E551100D54E22 /* scratch_20.jpg in Resources */,
 				C7920837221E551100D54E22 /* knockout_55.jpg in Resources */,
 				C7920989221E551100D54E22 /* drink_61.jpg in Resources */,
@@ -2394,7 +2217,6 @@
 				C7920945221E551100D54E22 /* cymbal_08.jpg in Resources */,
 				C7920801221E551100D54E22 /* footRight_15.jpg in Resources */,
 				C7920847221E551100D54E22 /* knockout_19.jpg in Resources */,
-				C79205FF221E4C5E00D54E22 /* a117da8a5118417f135d359a38b6e20e.jpg in Resources */,
 				C79208FA221E551100D54E22 /* scratch_34.jpg in Resources */,
 				C7920872221E551100D54E22 /* stomach_22.jpg in Resources */,
 				C79208AD221E551100D54E22 /* footLeft_25.jpg in Resources */,
@@ -2412,26 +2234,21 @@
 				C79208A5221E551100D54E22 /* footLeft_08.jpg in Resources */,
 				C7920978221E551100D54E22 /* drink_41.jpg in Resources */,
 				C7920806221E551100D54E22 /* knockout_05.jpg in Resources */,
-				C79205FA221E4C5E00D54E22 /* b5c71eefa3117b5cc81b711940205413.jpg in Resources */,
 				C7920887221E551100D54E22 /* pie_14.jpg in Resources */,
 				C79209A9221E55A200D54E22 /* scratch.png in Resources */,
 				C7920957221E551100D54E22 /* drink_31.jpg in Resources */,
-				C79205FB221E4C5E00D54E22 /* bfab06d8ea1b35435f839cb6da2640ee.jpg in Resources */,
 				C7920907221E551100D54E22 /* scratch_27.jpg in Resources */,
 				C79205D6221E4C5E00D54E22 /* like_normal_000030.png in Resources */,
 				C7920863221E551100D54E22 /* stomach_14.jpg in Resources */,
 				C7920973221E551100D54E22 /* drink_42.jpg in Resources */,
 				C792090E221E551100D54E22 /* fart_21.jpg in Resources */,
 				C79208A3221E551100D54E22 /* footLeft_21.jpg in Resources */,
-				C7920616221E4C5E00D54E22 /* e9705f0a2d6bf34e9f4af14425a7f607.jpg in Resources */,
 				C792094C221E551100D54E22 /* cymbal_04.jpg in Resources */,
 				C7920829221E551100D54E22 /* knockout_63.jpg in Resources */,
 				C79208EC221E551100D54E22 /* scratch_43.jpg in Resources */,
 				C792097D221E551100D54E22 /* drink_65.jpg in Resources */,
-				C7920605221E4C5E00D54E22 /* d95d0324a2c1877c46b58ee70cd6af6c.jpg in Resources */,
 				C7920947221E551100D54E22 /* cymbal_02.jpg in Resources */,
 				C792093C221E551100D54E22 /* angry_00.jpg in Resources */,
-				C7920608221E4C5E00D54E22 /* 9511db897ee34eba526b0cf0cb97a6c6.jpg in Resources */,
 				C792083D221E551100D54E22 /* knockout_42.jpg in Resources */,
 				C7920857221E551100D54E22 /* stomach_11.jpg in Resources */,
 				C7920910221E551100D54E22 /* fart_08.jpg in Resources */,
@@ -2444,9 +2261,7 @@
 				C79208C8221E551100D54E22 /* eat_31.jpg in Resources */,
 				C792097E221E551100D54E22 /* drink_71.jpg in Resources */,
 				C79208A6221E551100D54E22 /* footLeft_22.jpg in Resources */,
-				C79205FC221E4C5E00D54E22 /* 593121bc951ecc6e3980b2465e93a38b.jpg in Resources */,
 				C7920892221E551100D54E22 /* footLeft_00.jpg in Resources */,
-				C79205F6221E4C5E00D54E22 /* 5352fdeec6697820ae61945e9301aa85.jpg in Resources */,
 				C79207EB221E551100D54E22 /* footRight_26.jpg in Resources */,
 				C7920855221E551100D54E22 /* knockout_20.jpg in Resources */,
 				C79208F2221E551100D54E22 /* scratch_45.jpg in Resources */,
@@ -2467,10 +2282,8 @@
 				C7920841221E551100D54E22 /* knockout_43.jpg in Resources */,
 				C7920811221E551100D54E22 /* knockout_02.jpg in Resources */,
 				C79208F8221E551100D54E22 /* scratch_47.jpg in Resources */,
-				C7920615221E4C5E00D54E22 /* 3ab1ac4f3853542de996aeebd1de71c2.jpg in Resources */,
 				C79205D9221E4C5E00D54E22 /* like_normal_000020.png in Resources */,
 				C792089F221E551100D54E22 /* footLeft_05.jpg in Resources */,
-				C79205F3221E4C5E00D54E22 /* 9de65281e600b838f6634fda90417d72.jpg in Resources */,
 				C79207FF221E551100D54E22 /* footRight_29.jpg in Resources */,
 				C79208B1221E551100D54E22 /* eat_12.jpg in Resources */,
 				C7920864221E551100D54E22 /* stomach_28.jpg in Resources */,
@@ -2480,7 +2293,6 @@
 				C79207F7221E551100D54E22 /* footRight_13.jpg in Resources */,
 				C79208E1221E551100D54E22 /* scratch_13.jpg in Resources */,
 				C792089D221E551100D54E22 /* footLeft_07.jpg in Resources */,
-				C7920606221E4C5E00D54E22 /* 63fdcf03e5b459e496e02328cf3960f3.jpg in Resources */,
 				C7920876221E551100D54E22 /* stomach_08.jpg in Resources */,
 				C792089A221E551100D54E22 /* footLeft_06.jpg in Resources */,
 				C79208EE221E551100D54E22 /* scratch_40.jpg in Resources */,
@@ -2501,8 +2313,6 @@
 				C7920886221E551100D54E22 /* pie_00.jpg in Resources */,
 				C7920984221E551100D54E22 /* drink_62.jpg in Resources */,
 				C7920934221E551100D54E22 /* angry_12.jpg in Resources */,
-				C7920612221E4C5E00D54E22 /* f151b759f344d5c4e9f4087906b8e9e0.jpg in Resources */,
-				C79205F4221E4C5E00D54E22 /* db348e20428c913b5c8acd4288f4f1de.jpg in Resources */,
 				C7920807221E551100D54E22 /* knockout_11.jpg in Resources */,
 				C7920913221E551100D54E22 /* fart_23.jpg in Resources */,
 				C792089E221E551100D54E22 /* footLeft_11.jpg in Resources */,
@@ -2521,7 +2331,6 @@
 				C7920878221E551100D54E22 /* pie_23.jpg in Resources */,
 				C792098D221E551100D54E22 /* drink_74.jpg in Resources */,
 				C792081B221E551100D54E22 /* knockout_73.jpg in Resources */,
-				C7920607221E4C5E00D54E22 /* fa2fabba01d43953452e7f6d849e2551.jpg in Resources */,
 				C792083A221E551100D54E22 /* knockout_68.jpg in Resources */,
 				C792098C221E551100D54E22 /* drink_60.jpg in Resources */,
 				C79208E3221E551100D54E22 /* scratch_06.jpg in Resources */,
@@ -2530,7 +2339,6 @@
 				C792082E221E551100D54E22 /* knockout_53.jpg in Resources */,
 				C7920844221E551100D54E22 /* knockout_30.jpg in Resources */,
 				C792081F221E551100D54E22 /* knockout_65.jpg in Resources */,
-				C7920617221E4C5E00D54E22 /* a232b6430f8ac25c42039a49bf8057c6.jpg in Resources */,
 				C7920942221E551100D54E22 /* angry_02.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
