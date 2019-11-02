@@ -1,0 +1,7 @@
+project 'Animation.xcodeproj'
+platform :ios,'8.0'
+target 'Animation' do
+
+	pod 'lottie-ios'
+
+end
