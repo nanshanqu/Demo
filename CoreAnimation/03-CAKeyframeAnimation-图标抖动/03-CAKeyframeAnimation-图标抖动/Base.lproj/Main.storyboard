@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15400" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15404"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YWp-XC-qVL">
+                                <rect key="frame" x="20" y="433" width="50" height="30"/>
+                                <color key="backgroundColor" systemColor="systemBlueColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="30" id="OEF-Ni-W8o"/>
+                                    <constraint firstAttribute="width" constant="50" id="wWX-xf-Ls8"/>
+                                </constraints>
+                                <state key="normal" title="开始">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <connections>
+                                    <action selector="start" destination="BYZ-38-t0r" eventType="touchUpInside" id="N4d-KB-KWN"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="GRB-Dl-7XB">
+                                <rect key="frame" x="344" y="433" width="50" height="30"/>
+                                <color key="backgroundColor" systemColor="systemBlueColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="50" id="DHL-CI-xDy"/>
+                                    <constraint firstAttribute="height" constant="30" id="DQe-bQ-eWT"/>
+                                </constraints>
+                                <state key="normal" title="停止">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <connections>
+                                    <action selector="stop" destination="BYZ-38-t0r" eventType="touchUpInside" id="d7f-lr-ptZ"/>
+                                </connections>
+                            </button>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="lufy" translatesAutoresizingMaskIntoConstraints="NO" id="goR-7L-m7N">
+                                <rect key="frame" x="157" y="398" width="100" height="100"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="100" id="CEB-dq-8aw"/>
+                                    <constraint firstAttribute="height" constant="100" id="Dvy-Fq-6yn"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <constraints>
+                            <constraint firstItem="goR-7L-m7N" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="642-7x-53p"/>
+                            <constraint firstItem="YWp-XC-qVL" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="LgN-75-00a"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="GRB-Dl-7XB" secondAttribute="trailing" constant="20" id="MzK-AN-pvE"/>
+                            <constraint firstItem="goR-7L-m7N" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="O7g-D5-bue"/>
+                            <constraint firstItem="GRB-Dl-7XB" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="VXr-hJ-ElO"/>
+                            <constraint firstItem="GRB-Dl-7XB" firstAttribute="height" secondItem="YWp-XC-qVL" secondAttribute="height" id="WTQ-fA-m0O"/>
+                            <constraint firstItem="YWp-XC-qVL" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="msy-b9-Wfe"/>
+                            <constraint firstItem="GRB-Dl-7XB" firstAttribute="width" secondItem="YWp-XC-qVL" secondAttribute="width" id="xwr-80-fQ7"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                    <connections>
+                        <outlet property="iconView" destination="goR-7L-m7N" id="6b7-BD-WCY"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="131.8840579710145" y="138.61607142857142"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="lufy" width="100" height="100"/>
+    </resources>
+</document>
