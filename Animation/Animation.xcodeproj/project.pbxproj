@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0414337B23710F6000B44C42 /* CABasicAnimationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0414337A23710F6000B44C42 /* CABasicAnimationViewController.m */; };
+		0414337E2371120000B44C42 /* CoreAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 0414337D2371120000B44C42 /* CoreAnimation.m */; };
+		041433812371149400B44C42 /* CAKeyframeAnimationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 041433802371149400B44C42 /* CAKeyframeAnimationViewController.m */; };
+		04143384237114A300B44C42 /* DouDongViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04143383237114A300B44C42 /* DouDongViewController.m */; };
+		04143387237114B500B44C42 /* CATransitionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04143386237114B500B44C42 /* CATransitionViewController.m */; };
+		0414338A237114C500B44C42 /* CAAnimationGroupViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04143389237114C500B44C42 /* CAAnimationGroupViewController.m */; };
 		380EFBB27D713B94E75187B2 /* libPods-Animation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0CA307B21681A2234C47C90F /* libPods-Animation.a */; };
 		A18D947D2224E27D00C68D05 /* MusicPlayerHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = A18D947C2224E27D00C68D05 /* MusicPlayerHelper.m */; };
 		C792053E221E410800D54E22 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C792053D221E410800D54E22 /* AppDelegate.m */; };
@@ -525,6 +531,18 @@
 
 /* Begin PBXFileReference section */
 		00079D9275998E73CBE6B7C8 /* Pods-Animation.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Animation.release.xcconfig"; path = "Pods/Target Support Files/Pods-Animation/Pods-Animation.release.xcconfig"; sourceTree = "<group>"; };
+		0414337923710F6000B44C42 /* CABasicAnimationViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CABasicAnimationViewController.h; sourceTree = "<group>"; };
+		0414337A23710F6000B44C42 /* CABasicAnimationViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CABasicAnimationViewController.m; sourceTree = "<group>"; };
+		0414337C2371120000B44C42 /* CoreAnimation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CoreAnimation.h; sourceTree = "<group>"; };
+		0414337D2371120000B44C42 /* CoreAnimation.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CoreAnimation.m; sourceTree = "<group>"; };
+		0414337F2371149400B44C42 /* CAKeyframeAnimationViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CAKeyframeAnimationViewController.h; sourceTree = "<group>"; };
+		041433802371149400B44C42 /* CAKeyframeAnimationViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CAKeyframeAnimationViewController.m; sourceTree = "<group>"; };
+		04143382237114A300B44C42 /* DouDongViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DouDongViewController.h; sourceTree = "<group>"; };
+		04143383237114A300B44C42 /* DouDongViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DouDongViewController.m; sourceTree = "<group>"; };
+		04143385237114B500B44C42 /* CATransitionViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CATransitionViewController.h; sourceTree = "<group>"; };
+		04143386237114B500B44C42 /* CATransitionViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CATransitionViewController.m; sourceTree = "<group>"; };
+		04143388237114C500B44C42 /* CAAnimationGroupViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CAAnimationGroupViewController.h; sourceTree = "<group>"; };
+		04143389237114C500B44C42 /* CAAnimationGroupViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CAAnimationGroupViewController.m; sourceTree = "<group>"; };
 		0CA307B21681A2234C47C90F /* libPods-Animation.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Animation.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3917F4FC6EB0F83E0AF492D6 /* Pods-Animation.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Animation.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Animation/Pods-Animation.debug.xcconfig"; sourceTree = "<group>"; };
 		A18D947B2224E27D00C68D05 /* MusicPlayerHelper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MusicPlayerHelper.h; sourceTree = "<group>"; };
@@ -1064,6 +1082,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0414337823710F2700B44C42 /* CoreAnimation */ = {
+			isa = PBXGroup;
+			children = (
+				0414337C2371120000B44C42 /* CoreAnimation.h */,
+				0414337D2371120000B44C42 /* CoreAnimation.m */,
+				0414337923710F6000B44C42 /* CABasicAnimationViewController.h */,
+				0414337A23710F6000B44C42 /* CABasicAnimationViewController.m */,
+				0414337F2371149400B44C42 /* CAKeyframeAnimationViewController.h */,
+				041433802371149400B44C42 /* CAKeyframeAnimationViewController.m */,
+				04143382237114A300B44C42 /* DouDongViewController.h */,
+				04143383237114A300B44C42 /* DouDongViewController.m */,
+				04143385237114B500B44C42 /* CATransitionViewController.h */,
+				04143386237114B500B44C42 /* CATransitionViewController.m */,
+				04143388237114C500B44C42 /* CAAnimationGroupViewController.h */,
+				04143389237114C500B44C42 /* CAAnimationGroupViewController.m */,
+			);
+			path = CoreAnimation;
+			sourceTree = "<group>";
+		};
 		22E3A4D3A62030384268C5DB /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -1084,6 +1121,7 @@
 		C7920530221E410800D54E22 = {
 			isa = PBXGroup;
 			children = (
+				0414337823710F2700B44C42 /* CoreAnimation */,
 				C792053B221E410800D54E22 /* Animation */,
 				C7920554221E410A00D54E22 /* AnimationTests */,
 				C792055F221E410A00D54E22 /* AnimationUITests */,
@@ -2385,13 +2423,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04143387237114B500B44C42 /* CATransitionViewController.m in Sources */,
+				041433812371149400B44C42 /* CAKeyframeAnimationViewController.m in Sources */,
 				C7920573221E426300D54E22 /* LottieViewController.m in Sources */,
+				0414337E2371120000B44C42 /* CoreAnimation.m in Sources */,
+				0414338A237114C500B44C42 /* CAAnimationGroupViewController.m in Sources */,
 				C7920579221E457A00D54E22 /* TransformViewController.m in Sources */,
 				C7920541221E410800D54E22 /* ViewController.m in Sources */,
 				C792054C221E410A00D54E22 /* main.m in Sources */,
 				A18D947D2224E27D00C68D05 /* MusicPlayerHelper.m in Sources */,
 				C792057C221E458400D54E22 /* TomViewController.m in Sources */,
 				C792053E221E410800D54E22 /* AppDelegate.m in Sources */,
+				04143384237114A300B44C42 /* DouDongViewController.m in Sources */,
+				0414337B23710F6000B44C42 /* CABasicAnimationViewController.m in Sources */,
 				C7920570221E425800D54E22 /* SequentialViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
